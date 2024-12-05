@@ -1,6 +1,6 @@
 Authors:
-Airzy
-Tushar
+Airzy,
+Tushar,
 Charles
 
 https://air-zy.github.io/Assignment3-Tushar-Charles-Airzy/
